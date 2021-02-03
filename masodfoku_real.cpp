@@ -23,7 +23,7 @@ int main()
     cin >> c;
     
     D=(b*b-4*a*c);
-    if(D<0)
+    if(D < 0)
     {
      cout <<"Nincs valós megoldása az egyenletnek...:(";
      return 0;
