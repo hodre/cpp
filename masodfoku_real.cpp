@@ -1,7 +1,7 @@
 /*
 Varga Sebestyén
 2021.02.03.
-másodfokú egyenletmegoldás valós számok halmazában
+másodfokú egyenletmegoldás a valós számok halmazában
 */
 
 #include <iostream>
