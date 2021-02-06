@@ -1,7 +1,7 @@
 /*
 Varga Sebestyén
 2021. 02. 06.
-matrixolvasas fajlbol
+matrix iras fajlba
 */
 
 #include <iostream>
